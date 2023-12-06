@@ -82,7 +82,7 @@ body{
 }
 .right_icon{
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 .next_quote_button{
   background-color: #4258b9;
